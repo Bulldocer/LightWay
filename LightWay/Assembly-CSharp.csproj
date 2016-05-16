@@ -50,9 +50,11 @@
      <Compile Include="Assets\Code\Controllers\GameController.cs" />
      <Compile Include="Assets\Code\Controllers\PlayerBallController.cs" />
      <Compile Include="Assets\Code\Obstacles\StandardObstacle_Controller.cs" />
+     <Compile Include="Assets\Code\Platforms\DirectionalPlatform_Controller.cs" />
      <Compile Include="Assets\Code\Triggers\CheckPoint_Controll.cs" />
      <Compile Include="Assets\Code\Triggers\Exit_Controller.cs" />
      <Compile Include="Assets\Code\Triggers\Switches\Button_Controller.cs" />
+     <Compile Include="Assets\Code\Triggers\Switches\Switch_Controller.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
