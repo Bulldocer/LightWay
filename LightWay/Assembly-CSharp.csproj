@@ -47,10 +47,13 @@
   <ItemGroup>
      <Compile Include="Assets\Code\Collectables\Key_Controller.cs" />
      <Compile Include="Assets\Code\Collectables\PickUp_Controller.cs" />
+     <Compile Include="Assets\Code\Controllers\Camera_Controller.cs" />
      <Compile Include="Assets\Code\Controllers\GameController.cs" />
      <Compile Include="Assets\Code\Controllers\PlayerBallController.cs" />
+     <Compile Include="Assets\Code\Controllers\PlayerBall_Controller.cs" />
      <Compile Include="Assets\Code\Obstacles\StandardObstacle_Controller.cs" />
      <Compile Include="Assets\Code\Platforms\DirectionalPlatform_Controller.cs" />
+     <Compile Include="Assets\Code\Platforms\Floor_Controller.cs" />
      <Compile Include="Assets\Code\Triggers\CheckPoint_Controll.cs" />
      <Compile Include="Assets\Code\Triggers\Exit_Controller.cs" />
      <Compile Include="Assets\Code\Triggers\Switches\Button_Controller.cs" />
